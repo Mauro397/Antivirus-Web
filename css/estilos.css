@@ -155,3 +155,11 @@
 .centrado {
     text-align: center;
 }
+
+footer{
+    color: white;
+    background-color: black;
+    padding: 50px;
+    font-size: 11px;
+
+}
